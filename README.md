@@ -10,7 +10,7 @@ Vision Bot is an AI-driven system using a Raspberry Pi, a webcam, and servo moto
 ![Photo 1](photo1.jpeg)
 
 ### Photo 2
-![Photo 2](photo2.jpeg)
+![Photo 2](photo2.jpeg.jpeg)
 
 ### Photo 3
 ![Photo 3](photo3.jpeg)
